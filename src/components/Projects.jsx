@@ -13,7 +13,7 @@ const projects = [
       "I implemented the User Management (CRUD) module and helped design a clean, responsive interface using React and Tailwind CSS.",
     tech: ["MongoDB", "Express.js", "React", "Node.js", "Tailwind CSS"],
     demo: "",
-    code: "https://github.com/Danu20019/fish_haven",
+    code: "https://github.com/Sanduni407/fish_haven-pub.git",   // UPDATED
   },
   {
     title: "Xpenda – Personal Finance Tracker App",
@@ -26,7 +26,7 @@ const projects = [
       "Developed using Android Studio and Kotlin with Shared Preferences for data persistence and optional data backup.",
     tech: ["Android Studio", "Kotlin", "XML", "Shared Preferences"],
     demo: "",
-    code: "https://github.com/Danu20019/Android_studio_app",
+    code: "https://github.com/Danu20019/Android_studio_app.git",   // UPDATED
   },
   {
     title: "Craigslist Website UI/UX Redesign",
@@ -38,8 +38,8 @@ const projects = [
     highlight:
       "I focused on the Create Post, About Us and For Sale pages and added a location-based filter with a clean, modern layout.",
     tech: ["Figma", "Wireframes", "Prototyping", "UI Design"],
-    demo: "",
-    code: "", // you can add your Figma link here later
+    demo: "https://www.figma.com/design/tbookbKhYZBejkamLTRLoU/Craigslist?node-id=0-1&t=ppSeliD2ErTDUoAg-1",  // ADDED
+    code: "", // You can add Figma prototype later if needed
   },
   {
     title: "Online Train Reservation & Ticket Booking",
