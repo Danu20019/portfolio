@@ -5,7 +5,7 @@ export default function Skills() {
       className="py-20 px-4 bg-[#020617] border-t border-white/5"
     >
       <div className="max-w-5xl mx-auto text-center mb-12">
-        <p className="text-blue-400 tracking-[0.3em] text-sm mb-3">
+        <p className="text-base md:text-lg font-semibold tracking-[0.35em] text-sky-400 uppercase mb-4">
           SKILLS
         </p>
         <h2 className="text-3xl md:text-4xl font-bold mb-4">

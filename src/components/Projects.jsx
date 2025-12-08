@@ -65,7 +65,7 @@ export default function Projects() {
       <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
         {/* Section heading */}
         <div className="text-center mb-12">
-          <p className="text-xs font-semibold tracking-[0.3em] text-blue-400 uppercase">
+          <p className="text-base md:text-lg font-semibold tracking-[0.35em] text-sky-400 uppercase mb-4">
             Projects
           </p>
           <h2 className="mt-3 text-3xl sm:text-4xl md:text-5xl font-bold text-slate-50">

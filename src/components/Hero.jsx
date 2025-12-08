@@ -24,7 +24,7 @@ export default function Hero() {
       </div>
 
       {/* HELLO TEXT */}
-      <p className="text-blue-400 tracking-[0.3em] text-sm mb-4">
+      <p className="text-base md:text-lg font-semibold tracking-[0.35em] text-sky-400 uppercase mb-4">
         HELLO, I’M
       </p>
 
