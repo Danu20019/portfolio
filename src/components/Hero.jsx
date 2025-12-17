@@ -2,12 +2,12 @@ import profile from "../assets/profile.jpg";
 
 export default function Hero() {
   return (
-    <section className="min-h-screen flex flex-col justify-center items-center text-center px-4 bg-gradient-to-b from-[#020617] to-[#0a1121]"><br />
-    <br />  
-
+    <section
+      id="home"
+      className="min-h-screen flex flex-col justify-center items-center text-center px-4 bg-gradient-to-b from-[#020617] to-[#0a1121]"
+    >
       {/* PROFILE IMAGE WITH GRADIENT OUTLINE + GLOW */}
       <div className="relative w-44 h-44 mb-10">
-        
         {/* Glow behind the image */}
         <div className="absolute inset-0 rounded-full bg-blue-500/20 blur-3xl"></div>
 
