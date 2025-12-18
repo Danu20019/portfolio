@@ -13,7 +13,7 @@ const Navbar = () => {
           <a href="#contact" className="hover:text-white transition">Contact</a>
 
           <a
-            href="public/Danushi Rathnayaka_CV.pdf"
+            href="/Danushi Rathnayaka_CV.pdf"
             download
             className="ml-4 px-4 py-2 rounded-full bg-indigo-600 hover:bg-indigo-500 text-white font-semibold shadow-md shadow-indigo-500/20 transition"
           >
