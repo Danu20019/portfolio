@@ -8,8 +8,8 @@ export default function Skills() {
         <p className="text-base md:text-lg font-semibold tracking-[0.35em] text-sky-400 uppercase mb-4">
           SKILLS
         </p>
-        <h2 className="text-3xl md:text-4xl font-bold mb-4">
-          Tech stack I work with
+        <h2 className="mt-3 text-3xl sm:text-4xl md:text-5xl font-bold text-slate-50">
+          Tech Stack I Work With
         </h2>
         <p className="text-gray-400 max-w-2xl mx-auto">
           I focus on modern web technologies, clean code and user-friendly

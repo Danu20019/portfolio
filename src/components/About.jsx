@@ -14,9 +14,9 @@ const About = () => {
         </p>
 
         {/* MAIN HEADING */}
-        <h2 className="text-3xl md:text-5xl font-extrabold text-white leading-tight mb-8">
-          IT undergraduate crafting clean, modern <br /> and user-focused web
-          experiences.
+        <h2 className="mt-3 text-3xl sm:text-4xl md:text-5xl font-bold text-slate-50">
+          IT Undergraduate Crafting Clean, Modern <br /> And User-Focused Web
+          Experiences.
         </h2>
 
         {/* INTRO PARAGRAPH */}

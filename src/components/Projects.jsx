@@ -69,7 +69,7 @@ export default function Projects() {
             Projects
           </p>
           <h2 className="mt-3 text-3xl sm:text-4xl md:text-5xl font-bold text-slate-50">
-            Selected work & case studies
+            Selected Work & Case Studies
           </h2>
           <p className="mt-4 text-sm sm:text-base text-slate-400 max-w-2xl mx-auto">
             A mix of full-stack applications, Android apps and UI/UX case
