@@ -1,10 +1,10 @@
-import profile from "../assets/profile.jpg";
+import profile from "../assets/profile.png";
 
 export default function Hero() {
   return (
     <section
       id="home"
-      className="min-h-screen flex flex-col justify-center items-center text-center px-4 bg-gradient-to-b from-[#020617] to-[#0a1121]"
+      className="min-h-screen flex flex-col justify-center items-center text-center px-4 pt-28 md:pt-32 bg-gradient-to-b from-[#020617] to-[#0a1121]"
     >
       {/* PROFILE IMAGE WITH GRADIENT OUTLINE + GLOW */}
       <div className="relative w-44 h-44 mb-10">

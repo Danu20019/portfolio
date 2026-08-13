@@ -15,6 +15,37 @@ const projects = [
     demo: "",
     code: "https://github.com/Sanduni407/fish_haven-pub.git",   // UPDATED
   },
+
+{
+  title: "UniHub – Smart Campus Management System",
+
+  period: "Feb 2026 – April 2026",
+
+  type: "Full-stack MERN application",
+
+  icon: "🎓",
+
+  description:
+    "A centralized campus management platform designed to support student services such as Kuppi session requests, lost and found, payments, support tickets, events, and administrative management through student and admin dashboards.",
+
+  highlight:
+    "I implemented the Kuppi Session Management module, including batch representative request submission with verification letter upload, form validation, admin request approval and rejection, future date/time scheduling, approved session notices, and admin dashboard summaries. I also contributed to the main admin dashboard and integrated Kuppi request data with MongoDB and Cloudinary.",
+
+  tech: [
+    "MongoDB",
+    "Express.js",
+    "React",
+    "Node.js",
+    "Cloudinary",
+    "Axios",
+    "CSS"
+  ],
+
+  demo: "",
+
+  code: "", // Add GitHub repository link later
+},
+
   {
     title: "Xpenda – Personal Finance Tracker App",
     period: "May 2025 – June 2025",
@@ -41,6 +72,23 @@ const projects = [
     demo: "https://www.figma.com/design/tbookbKhYZBejkamLTRLoU/Craigslist?node-id=0-1&t=ppSeliD2ErTDUoAg-1",  // ADDED
     code: "", // You can add Figma prototype later if needed
   },
+
+  {
+  title: "Smart Campus Operations Hub",
+  period: "Apr 2026 – May 2026",
+  type: "React + Spring Boot Web Application",
+  icon: "🏫",
+  description:
+    "A smart campus management system designed to handle facility bookings, maintenance activities and operational monitoring for students, technicians and administrators.",
+  highlight:
+    "I developed the Facilities Catalogue with advanced filtering, built the Technician Dashboard for maintenance status management, implemented backend REST API endpoints with input validation and improved the frontend UI.",
+  tech: ["React.js", "Spring Boot", "Java", "JavaScript", "CSS", "Gradle", "REST API"],
+  demo: "",
+  code: "", // Add GitHub link later
+},
+
+
+
   {
     title: "Online Train Reservation & Ticket Booking",
     period: "Aug 2024 – Oct 2024",
